@@ -29,7 +29,7 @@
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url('../pexels-photo-1552635.jpeg');
+    background-image: url('./pexels-photo-1552635.jpeg');
 }
 .container-img h1{
     color: white;
